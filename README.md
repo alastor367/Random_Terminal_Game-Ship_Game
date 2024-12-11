@@ -1,4 +1,4 @@
-# Random_Terminal_Game-Ship_Game
+# Random Terminal Game - Ship Game
 A terminal game made in Python
 
 ![Game](https://github.com/user-attachments/assets/a9e36248-8b8b-42bc-b333-531c2b3377ec)
