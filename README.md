@@ -14,4 +14,6 @@ A terminal game made in Python
 - Simple options menu
 - Rewrite this code in other languages (each code version)
 
+[Releases](https://github.com/alastor367/Random_Terminal_Game-Ship_Game/releases)
+
 [license](https://github.com/alastor367/Random_Terminal_Game-Ship_Game?tab=MIT-1-ov-file#readme)
