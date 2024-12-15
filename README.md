@@ -9,7 +9,7 @@ _Code versions above v1 (not those exported to .exe) needs a python in the minim
 
 # To do:
 
-- Gamemode mode selection
+- ~~Gamemode mode selection~~ done in v2
 - Final Stats
 - Animations
 - Simple options menu
