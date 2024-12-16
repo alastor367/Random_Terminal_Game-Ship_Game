@@ -15,6 +15,8 @@ _Code versions above v1 (not those exported to .exe) needs a python in the minim
 - Simple options menu
 - Rewrite this code in other languages (each code version)
 
+*Hyper links*
+
 [Releases](https://github.com/alastor367/Random_Terminal_Game-Ship_Game/releases)
 
 [license](https://github.com/alastor367/Random_Terminal_Game-Ship_Game?tab=MIT-1-ov-file#readme)
