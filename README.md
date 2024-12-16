@@ -18,3 +18,8 @@ _Code versions above v1 (not those exported to .exe) needs a python in the minim
 [Releases](https://github.com/alastor367/Random_Terminal_Game-Ship_Game/releases)
 
 [license](https://github.com/alastor367/Random_Terminal_Game-Ship_Game?tab=MIT-1-ov-file#readme)
+
+# known bugs:
+- windows flags .exe as a virus
+- always wrong metadata idk how to set up
+- bad code
