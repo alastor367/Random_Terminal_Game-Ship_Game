@@ -7,6 +7,7 @@ _Code versions above v1 (not those exported to .exe) needs a python in the minim
 # Can be also Dowload on:
 - [itch.io](https://alastor367.itch.io/ship-game) - _hyperlink_
 
+
 # To do:
 
 - ~~Gamemode mode selection~~ done in v2
@@ -15,13 +16,12 @@ _Code versions above v1 (not those exported to .exe) needs a python in the minim
 - Simple options menu
 - Rewrite this code in other languages (each code version)
 
-*Hyper links*
-
-[Releases](https://github.com/alastor367/Random_Terminal_Game-Ship_Game/releases)
-
-[license](https://github.com/alastor367/Random_Terminal_Game-Ship_Game?tab=MIT-1-ov-file#readme)
 
 # known bugs:
 - windows flags .exe as a virus
 - always wrong metadata idk how to set up
 - bad code
+
+[Releases](https://github.com/alastor367/Random_Terminal_Game-Ship_Game/releases)
+
+[license](https://github.com/alastor367/Random_Terminal_Game-Ship_Game?tab=MIT-1-ov-file#readme)
