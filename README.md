@@ -10,17 +10,17 @@ _Code versions above v1 (not those exported to .exe) needs a python in the minim
 
 # To do:
 
-- ~~Gamemode mode selection~~ done in v2
+- ~~Gamemode mode selection~~ *done in v2*
 - Final Stats
-- Animations
-- Simple options menu
+- Animations *started in v3*
+- ~~Simple options menu~~ *started in v3 will have updaits* 
 - Rewrite this code in other languages (each code version)
 
 
 # known bugs:
-- windows flags .exe as a virus
+- windows flags .exe as a virus - *fixed in about 50% i cannot doo rest :(*
 - always wrong metadata idk how to set up
-- bad code
+- bad code - *cannot be fixed at this point*
 
 [Releases](https://github.com/alastor367/Random_Terminal_Game-Ship_Game/releases)
 
