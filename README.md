@@ -2,7 +2,6 @@
 A terminal game made in Python.
 
 _Code versions above v1 (not those exported to .exe) needs a python in the minimum version 3.6_
-![Game](https://github.com/user-attachments/assets/a9e36248-8b8b-42bc-b333-531c2b3377ec)
 ![Game](https://github.com/user-attachments/assets/18281716-ffcb-4dca-b302-4e82275d52c7)
 
 # Can be also Dowload on:
