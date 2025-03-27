@@ -13,7 +13,6 @@ _Code versions above v1 (not those exported to .exe) needs a python in the minim
 - Final Stats
 - Animations *started in v3*
 - ~~Simple options menu~~ *started in v3 will have updaits* 
-- Rewrite this code in other languages (each code version)
 
 
 # known bugs:
